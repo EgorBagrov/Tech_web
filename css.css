@@ -1,0 +1,31 @@
+<style>
+
+div#tekst_sverhu_kartinki {
+
+position: relative;
+
+}.tekst_sverhu_kartinki {
+
+position: absolute;
+
+top: 100%;
+
+left: 65px;
+
+text-transform: uppercase;
+
+color: white;
+
+width: 350px;
+
+background: #00000094;
+
+padding: 10px;
+
+text-align: center;
+
+font: bold 24px/34px Helvetica, Sans-Serif;
+
+}
+
+</style>
